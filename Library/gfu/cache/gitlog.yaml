@@ -13,9 +13,117 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-05-20T23:08:29.625+02:00
+  lastUpdatedAtString: 2019-05-20T23:08:56.214+02:00
   initializedAtString: 2019-05-20T22:52:45.374+02:00
   log:
+  - commitID: efa9a6fef4374e2f67f04e94d6f2811ee69f378f
+    mergeA: 
+    mergeB: 
+    authorName: siemasusel
+    authorEmail: jantomx@gmail.com
+    commitEmail: jantomx@gmail.com
+    commitName: siemasusel
+    summary: wow
+    description: wow
+    timeString: 2019-05-20T23:08:55.000+02:00
+    commitTimeString: 2019-05-20T23:08:55.000+02:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\jasiek\SAS\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\jasiek\SAS\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 0a1d61ccfcfbdc270b92f07137f653edfb2ef29d
+    mergeA: 
+    mergeB: 
+    authorName: siemasusel
+    authorEmail: jantomx@gmail.com
+    commitEmail: jantomx@gmail.com
+    commitName: siemasusel
+    summary: r
+    description: r
+    timeString: 2019-05-20T23:08:43.000+02:00
+    commitTimeString: 2019-05-20T23:08:43.000+02:00
+    changes:
+    - path: .vs\SAS\v15\.suo
+      fullPath: C:\Users\jasiek\SAS\.vs\SAS\v15\.suo
+      projectPath: .vs\SAS\v15\.suo
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .vs\SAS\v15\Server\sqlite3\db.lock
+      fullPath: C:\Users\jasiek\SAS\.vs\SAS\v15\Server\sqlite3\db.lock
+      projectPath: .vs\SAS\v15\Server\sqlite3\db.lock
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .vs\SAS\v15\Server\sqlite3\storage.ide
+      fullPath: C:\Users\jasiek\SAS\.vs\SAS\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\SAS\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .vs\SAS\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\jasiek\SAS\.vs\SAS\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\SAS\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .vs\SAS\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\jasiek\SAS\.vs\SAS\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\SAS\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\jasiek\SAS\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\jasiek\SAS\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\jasiek\SAS\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\jasiek\SAS\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\jasiek\SAS\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\jasiek\SAS\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\jasiek\SAS\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 416a52970499d39e4ea4fbc988e54a8434c389b3
     mergeA: 
     mergeB: 

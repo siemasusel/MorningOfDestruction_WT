@@ -13,51 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-05-20T23:08:29.371+02:00
+  lastUpdatedAtString: 2019-05-20T23:10:06.966+02:00
   initializedAtString: 2019-05-20T22:51:28.121+02:00
   entries:
-  - path: .vs\SAS\v15\.suo
-    fullPath: C:\Users\jasiek\SAS\.vs\SAS\v15\.suo
-    projectPath: .vs\SAS\v15\.suo
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: .vs\SAS\v15\Server\sqlite3\db.lock
-    fullPath: C:\Users\jasiek\SAS\.vs\SAS\v15\Server\sqlite3\db.lock
-    projectPath: .vs\SAS\v15\Server\sqlite3\db.lock
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: .vs\SAS\v15\Server\sqlite3\storage.ide
-    fullPath: C:\Users\jasiek\SAS\.vs\SAS\v15\Server\sqlite3\storage.ide
-    projectPath: .vs\SAS\v15\Server\sqlite3\storage.ide
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: .vs\SAS\v15\Server\sqlite3\storage.ide-shm
-    fullPath: C:\Users\jasiek\SAS\.vs\SAS\v15\Server\sqlite3\storage.ide-shm
-    projectPath: .vs\SAS\v15\Server\sqlite3\storage.ide-shm
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: .vs\SAS\v15\Server\sqlite3\storage.ide-wal
-    fullPath: C:\Users\jasiek\SAS\.vs\SAS\v15\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\SAS\v15\Server\sqlite3\storage.ide-wal
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\jasiek\SAS\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\jasiek\SAS\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\jasiek\SAS\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
